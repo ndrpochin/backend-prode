@@ -1,0 +1,14 @@
+{
+  "name": "prode-api",
+  "version": "1.0.0",
+  "description": "prode para el mundial Qatar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nadir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
